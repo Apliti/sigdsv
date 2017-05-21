@@ -1,0 +1,4 @@
+Este campo indica o bairro referente ao endereço da inspeção.
+Será selecionado conforme caixa de seleção.
+sem restrição de preenchimento
+Valor maior do que 0,00

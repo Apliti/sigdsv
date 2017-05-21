@@ -1,0 +1,15 @@
+body {
+	background-color: #EBEBEB;
+	font-family:Arial, Verdana, Helvetica;
+	scrollbar-arrow-color:#000000;
+	scrollbar-3dlight-color:#000000;
+	scrollbar-highlight-color:#CCCCCC;
+	scrollbar-face-color:#FFFFFF;
+	scrollbar-shadow-color:#C9C9C9;
+	scrollbar-darkshadow-color:#EEEEEE;
+	scrollbar-track-color:#CCCCCC;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}

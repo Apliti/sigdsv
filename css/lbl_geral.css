@@ -1,0 +1,701 @@
+.lbl_item_09_c {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 9px;
+	color: #000000;
+	font-weight:normal;
+	text-align:center;	
+ }
+.lbl_item_09_d {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 9px;
+	color: #000000;
+	font-weight:normal;
+	text-align:right;	
+ }
+ .lbl_item_09_e {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 9px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left;	
+ }
+.lbl_item_09_c_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 9px;
+	color: #000000;
+	font-weight:bold;
+	text-align:center;	
+ }
+.lbl_item_09_d_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 9px;
+	color: #000000;
+	font-weight:bold;
+	text-align:right;	
+ }
+ .lbl_item_09_e_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 9px;
+	color: #000000;
+	font-weight:bold;
+	text-align:left;	
+ }
+.lbl_item_10_c {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #000000;
+	font-weight:normal;
+	text-align:center;	
+ }
+.lbl_item_10_d {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #000000;
+	font-weight:normal;
+	text-align:right;	
+ }
+ .lbl_item_10_e {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left;	
+ }
+.lbl_item_10_e_i {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left;
+	font-style: italic;
+ }
+.lbl_item_10_c_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #000000;
+	font-weight:bold;
+	text-align:center;	
+ }
+.lbl_item_10_d_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #000000;
+	font-weight:bold;
+	text-align:right;	
+ }
+ .lbl_item_10_e_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #000000;
+	font-weight:bold;
+	text-align:left;	
+ }
+.lbl_item_10_c_vrd {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #009900;
+	font-weight:normal;
+	text-align:center;	
+}
+.lbl_item_10_c_b_vrd {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #009900;
+	font-weight:bold;
+	text-align:center;	
+}
+.lbl_item_10_c_b_azl {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color:0000FF;
+	font-weight:bold;
+	text-align:center;	
+}
+.lbl_item_10_e_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #FF0000;
+	font-weight:normal;
+	text-align:left;	
+}
+.lbl_item_10_e_b_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #FF0000;
+	font-weight:bold;
+	text-align:left;	
+}
+.lbl_item_10_c_b_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #FF0000;
+	font-weight:bold;
+	text-align:center;	
+ }
+.lbl_item_10_d_b_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #FF0000;
+	font-weight:bold;
+	text-align:right;	
+ }
+.lbl_item_10_c_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color:#FF0000;
+	font-weight:normal;
+	text-align:center;	
+}
+.lbl_item_10_c_azl {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #0000FF;
+	font-weight:normal;
+	text-align:center;	
+}
+.lbl_item_10_e_azl {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #0000FF;
+	font-weight:normal;
+	text-align:left;	
+}
+.lbl_item_10_d_azl {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #0000FF;
+	font-weight:normal;
+	text-align:right;	
+}
+.lbl_item_10_c_b_azl {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color: #0000FF;
+	font-weight:bold;
+	text-align:center;	
+}
+ .lbl_item_10_e_prt {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 10px;
+	color:#000
+	font-weight:normal;
+	text-align:left;	
+ }
+.lbl_item_11_c {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #000000;
+	font-weight:normal;
+	text-align:center;	
+ }
+.lbl_item_11_c_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #000000;
+	font-weight:bold;
+	text-align:center;	
+ }
+ .lbl_item_11_d {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #000000;
+	font-weight:normal;
+	text-align:right;	
+ }
+  .lbl_item_11_d_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #000000;
+	font-weight:bold;
+	text-align:right;	
+ }
+  .lbl_item_11_e {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left;	
+ }
+.lbl_item_11_e_i {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left;
+	font-style: italic;
+ }
+.lbl_item_11_e_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #000000;
+	font-weight:bold;
+	text-align:left;	
+ }
+.lbl_item_11_c_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color:#FF0000;
+	font-weight:normal;
+	text-align:center;	
+}
+.lbl_item_11_c_azl {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #0000FF;
+	font-weight:normal;
+	text-align:center;	
+}
+.lbl_item_11_d_azl {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #0000FF;
+	font-weight:normal;
+	text-align:right;	
+}
+.lbl_item_11_d_vrd {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #009900;
+	font-weight:normal;
+	text-align:right;	
+}
+.lbl_item_11_d_brc {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-weight:normal;
+	text-align:right;	
+ }
+ .lbl_item_11_e_brc {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-weight:normal;
+	text-align:left;	
+ }
+.lbl_item_11_c_b_brc {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-weight:normal;
+	text-align:center;	
+ }
+.lbl_item_11_d_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #FF0000;
+	font-weight:normal;
+	text-align:right;	
+ }
+ .lbl_item_11_e_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #FF0000;
+	font-weight:normal;
+	text-align:left;	
+ }
+.lbl_item_11_e_b_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #FF0000;
+	font-weight:bold;
+	text-align:left;	
+}
+.lbl_item_11_c_b_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #FF0000;
+	font-weight:bold;
+	text-align:center;	
+ }
+.lbl_item_11_d_b_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #FF0000;
+	font-weight:bold;
+	text-align:right;	
+ }
+.lbl_item_11_d_azu {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #0000FF;
+	font-weight:normal;
+	text-align:right;	
+ }
+ .lbl_item_11_d_b_azu {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #0000FF;
+	font-weight:bold;
+	text-align:right;	
+ }
+ .lbl_item_11_e_azu {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #0000FF;
+	font-weight:normal;
+	text-align:left;	
+ }
+.lbl_item_11_c_b_azu {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #0000FF;
+	font-weight:bold;
+	text-align:center;	
+ }
+ .lbl_item_11_e_vrd {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #009900;
+	font-weight:normal;
+	text-align:left;	
+ }
+.lbl_item_11_c_vrd {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color: #009900;
+	font-weight:normal;
+	text-align:center;	
+}
+ .lbl_item_11_e_prt {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 11px;
+	color:#000
+	font-weight:normal;
+	text-align:left;	
+ }
+.lbl_item_12_c {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #000000;
+	font-weight:normal;
+	text-align:center;	
+ }
+.lbl_item_12_c_i_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #000000;
+	font-weight:bold;
+	text-align:center;
+	font-style:italic
+ }
+.lbl_item_12_d {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #000000;
+	font-weight:normal;
+	text-align:right;	
+ }
+.lbl_item_12_d_i_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #000000;
+	font-weight:bold;
+	text-align:right;
+	font-style:italic
+ }
+ .lbl_item_12_e {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left;	
+ }
+.lbl_item_12_e_i {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left;
+	font-style:italic	
+ }
+ .lbl_item_12_e_i_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #000000;
+	font-weight:bold;
+	text-align:left;
+	font-style:italic
+ }
+.lbl_item_12_c_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #000000;
+	font-weight:bold;
+	text-align:center;	
+ }
+.lbl_item_12_d_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #000000;
+	font-weight:bold;
+	text-align:right;	
+}
+.lbl_item_12_e_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #000000;
+	font-weight:bold;
+	text-align:left;	
+}
+.lbl_item_12_c_azl {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight:normal;
+	text-align:center;	
+}
+.lbl_item_12_c_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight:normal;
+	text-align:center;	
+}
+.lbl_item_12_d_azl {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight:normal;
+	text-align:right;	
+}
+.lbl_item_12_d_b_azl {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight:bold;
+	text-align:right;	
+}
+.lbl_item_12_d_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight:normal;
+	text-align:right;	
+}
+.lbl_item_12_e_azl {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #0000FF;
+	font-weight:normal;
+	text-align:left;	
+}
+.lbl_item_12_e_vrm {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 12px;
+	color: #FF0000;
+	font-weight:normal;
+	text-align:left;	
+}
+.lbl_item_14_c {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 14px;
+	color: #000000;
+	font-weight:normal;
+	text-align:center;	
+}
+.lbl_item_14_c_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 14px;
+	color: #000000;
+	font-weight:bold;
+	text-align:center;	
+}
+.lbl_item_14_d {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 14px;
+	color: #000000;
+	font-weight:normal;
+	text-align:right;	
+}
+.lbl_item_14_d_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 14px;
+	color: #000000;
+	font-weight:bold;
+	text-align:right;	
+}
+.lbl_item_14_e {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 14px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left;	
+}
+.lbl_item_14_e_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 14px;
+	color: #000000;
+	font-weight:bold;
+	text-align:left;	
+}
+.lbl_item_14_c_cz_01 {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 14px;
+	color: #999999;
+	font-weight:normal;
+	text-align:center;	
+}
+.lbl_item_14_d_cz_01 {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 14px;
+	color: #999999;
+	font-weight:normal;
+	text-align:right;	
+}
+.lbl_item_14_e_cz_01 {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 14px;
+	color: #999999;
+	font-weight:normal;
+	text-align:left;	
+ }
+  .lbl_item_14_c_azl {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 14px;
+	color: #0000FF;
+	font-weight:normal;
+	text-align:center;	
+}
+.lbl_item_16_c_cz_01 {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 16px;
+	color: #666;
+	font-weight:normal;
+	text-align:center;	
+}
+.lbl_item_16_c_b_cz_01 {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 16px;
+	color: #666;
+	font-weight:bold;
+	text-align:center;	
+}
+.lbl_item_16_c_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 16px;
+	color: #000000;
+	font-weight:bold;
+	text-align:center;	
+ }
+ 
+.lbl_item_16_d_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 16px;
+	color: #000000;
+	font-weight:bold;
+	text-align:right;	
+}
+.lbl_item_16_e_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 16px;
+	color: #000000;
+	font-weight:bold;
+	text-align:left;	
+ }
+.lbl_item_16_e {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 16px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left;	
+ }
+ .lbl_item_16_d_b_azl {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 16px;
+	color: #0000FF;
+	font-weight:bold;
+	text-align:right;	
+}
+.lbl_item_16_d {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 16px;
+	color: #000000;
+	font-weight:normal;
+	text-align:right;	
+ }
+ .lbl_item_18_e {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 18px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left;	
+ }
+.lbl_item_18_e_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 18px;
+	color: #000000;
+	font-weight:bold;
+	text-align:left;	
+ }
+.lbl_item_18_d {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 18px;
+	color: #000000;
+	font-weight:normal;
+	text-align:right;	
+}
+.lbl_item_18_d_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 18px;
+	color: #000000;
+	font-weight:bold;
+	text-align:right;	
+}
+.lbl_item_18_c {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 18px;
+	color: #000000;
+	font-weight:normal;
+	text-align:center;	
+ }
+.lbl_item_18_c_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 18px;
+	color: #000000;
+	font-weight:bold;
+	text-align:center;	
+}
+.lbl_item_20_e {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 20px;
+	color: #000000;
+	font-weight:normal;
+	text-align:left;	
+ }
+.lbl_item_20_e_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 20px;
+	color: #000000;
+	font-weight:bold;
+	text-align:left;	
+ }
+.lbl_item_20_d {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 20px;
+	color: #000000;
+	font-weight:normal;
+	text-align:right;	
+}
+.lbl_item_20_d_b {
+	font-family:Arial, Verdana, Helvetica;
+	font-size: 20px;
+	color: #000000;
+	font-weight:bold;
+	text-align:right;	
+}
+.lbl_item_20_c {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #000000;
+	font-weight:normal;
+	text-align:center;	
+ }
+.lbl_item_20_c_b {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #000000;
+	font-weight:bold;
+	text-align:center;	
+}
+
